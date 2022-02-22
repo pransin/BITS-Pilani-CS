@@ -1,0 +1,12 @@
+Time Taken to sort 10 elements with mixedSort cutoff 10: 0.001000 milliseconds.
+
+rlbtzhlagp 26825
+iuvqznimkb 204724
+jkvlwxwkib 556499
+zrvafoklxn 559375
+merrucpiva 670912
+vvctusilnl 680897
+aughipvgjp 692742
+czpfxmmfrj 720834
+crjbieqnxr 845698
+bqwvnzdoxa 873867
