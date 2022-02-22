@@ -1,0 +1,5 @@
+Stack space used by insertion sort for 10 values: 320 B.
+Stack space used by insertion sort for 100 values: 3200 B.
+Stack space used by insertion sort for 1000 values: 32000 B.
+Stack space used by insertion sort for 10000 values: 320000 B.
+Stack space used by insertion sort for 100000 values: 3200000 B.

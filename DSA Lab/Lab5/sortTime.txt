@@ -1,0 +1,5 @@
+Time taken to sort 10 values: 0.001000 ms.
+Time taken to sort 100 values: 0.021000 ms.
+Time taken to sort 1000 values: 1.890000 ms.
+Time taken to sort 10000 values: 223.201000 ms.
+Time taken to sort 100000 values: 30152.374000 ms.
