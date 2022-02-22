@@ -1,2 +1,2 @@
 # BITS-Pilani-CS
-This repository contains solutions to lab (and non-lab) assignments assigned to CS undergrad at BITS. 
+This repository contains solutions to lab assignments assigned to CS undergrad students at BITS. 
