@@ -2,7 +2,7 @@
 #include "mergeSort.h"
 
 int main(){
-    FILE* ptr = fopen("/mnt/d/Drive/BITS/2-2/DSA/Labs/Lab6/1024.txt", "r");
+    FILE* ptr = fopen("1024.txt", "r");
     if (ptr == NULL){
         printf("File cannot be read.");
         return 1;
